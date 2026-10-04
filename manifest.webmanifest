@@ -1,0 +1,55 @@
+{
+  "id": "/kost-house-sentul/",
+  "name": "Kost House Sentul",
+  "short_name": "Kost Sentul",
+  "description": "Lima tipe kamar kos bergaya hotel di Sentul, dalam 3D interaktif.",
+  "lang": "id",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f0ea",
+  "theme_color": "#2a2622",
+  "categories": [
+    "lifestyle",
+    "travel",
+    "business"
+  ],
+  "prefer_related_applications": false,
+  "screenshots": [
+    {
+      "src": "screenshots/lounge.jpg",
+      "sizes": "1600x1000",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Suite Lounge isometrik"
+    },
+    {
+      "src": "screenshots/standard.jpg",
+      "sizes": "1600x1000",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Standard isometrik"
+    }
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
